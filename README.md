@@ -75,7 +75,19 @@ waterfall disadvantages:
 ## 11. What are the main features or functionalities that make your software stand out?
 
 
-## 12. What data is available regarding the market size and growth potential for your software?
+Answer:
+ When doing a software pitch your explanation must be clear, compelling and exciting.
+
+The pitch has to be simple, short, fun and easy to understand. For that there's a pitch formula:
+- Hook: grab attention
+- problem: describe the problem
+- solution: introduce a brilliant software solution
+- Demo: show off by doing a short demo of your software.
+-call to action
+
+Here purposes and functionalities of each software's feature has to be detailed.
+
+## 12. What data is available regarding the market size and growths potential for your software?
 
 Answer:
 
