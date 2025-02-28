@@ -77,5 +77,15 @@ waterfall disadvantages:
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
+Answer:
+
+- market size and growth
+- market trends
+- target audience.
+
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Answer:
+
+Understanding market trends will help to meet customers'expectations.
