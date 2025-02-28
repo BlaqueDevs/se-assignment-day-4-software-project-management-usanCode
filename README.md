@@ -38,7 +38,16 @@ Agile disadvantages:
 
 Waterfall advantages:
 
--
+-easy to manage due to its rigidity.
+-clear structure and planning therefore timetables are predictable.
+
+- waterfall is good for complex projects with fixed requirements.
+
+waterfall disadvantages:
+
+-less flexible
+-less customer involvement
+- testing occurs late in the process.
 
 
 
