@@ -68,6 +68,12 @@ waterfall disadvantages:
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
+Answer: 
+
+It is like solving a math problem. First we have to understand the problem by detecting datas and understand well what is asked. From that we will know how to find the solution. So first, we have to explain the problem, then highlight specific pain points faced by the audience. We can use visuals like charts, images ect..
+
+From that, we can find answers therefore getting an effective solution.
+
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
