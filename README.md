@@ -3,6 +3,9 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
+answer: 
+
+Time delivery: the act of delivering a complete software project by a specific deadline. The product has to be given on time, no delay is permitted. A software can be given a credit if it is delivered on time contributing therefore to its success.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
