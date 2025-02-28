@@ -53,9 +53,26 @@ waterfall disadvantages:
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
+Answer:
+
+- Agile is better for projects where requirements have to change and where the customers' feedbacks are needed. Best for developing a mobile app in which users are involved.
+
+- Waterfall is better for well defined requirements projects and is best suited for building complex enterprise systems.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
+
+Answer:
+
+Quality assurance is a process-oriented approach and focuses on preventing defects.
+
+Methods to ensure quality assurance:
+
+- defining clear quality standards
+- regular quality control checks
+- utilizing different testing methodologies.
+
+Maintaining high standards is crucial because it directly impacts the reliability, usability and the success of the software application thus improving customer satisfaction and help to reduce costs.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
