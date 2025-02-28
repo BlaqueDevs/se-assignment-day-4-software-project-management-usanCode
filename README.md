@@ -62,6 +62,13 @@ waterfall disadvantages:
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+Answer:
+
+- A detailed project schedule is a comprehensive breakdown of all project tasks providing this way a granular view of the entire project timeline. It offers a clear representation of tasks.
+
+- A Grantt chart : a visual representation of that schedule
+
+These help teams to better track progress, identify potential bottlenecks, allocate resources effectively and ultimately deliver projects on time and within budget.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
