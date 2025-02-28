@@ -72,6 +72,10 @@ waterfall disadvantages:
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
 
+Answer:
+
+- Personally I will describe the software solution using illustrations, diagrams, simple sketches, icons or bullet points.
+
 ## 11. What are the main features or functionalities that make your software stand out?
 
 
