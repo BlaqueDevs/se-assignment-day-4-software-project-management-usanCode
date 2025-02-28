@@ -14,6 +14,20 @@ To prevent budget overuns, we have to find an accurate estimation of the costs, 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
+Answer: 
+
+- Agile: flexibility, adaptation to changes.
+
+- Waterfall: Here we have to follow a structure. One step has to be completed in order to go to the other one.
+
+Agile advantages:
+
+- flexibility: easily adaptation to change and this contribute to better meet the needs of the customer.
+
+- improved team collaboration.
+
+- regular customer feedback.
+
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
