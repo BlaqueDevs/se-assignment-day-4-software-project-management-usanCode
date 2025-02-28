@@ -59,6 +59,20 @@ waterfall disadvantages:
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
+Answer:
+
+- the project scope:
+
+        -define project boundaries 
+
+        -list deliverables and          objectives
+        -create WBS
+
+- Work Breakdown Structure: a hierarchical diagram that breaks down the entire project scope into smaller, more manageable components or tasks.
+
+It is useful because WBS provides a clear framework for planning, managing and tracking progress throughout the development process. It is acting like a  detailed roadmap for the project.
+
+
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
