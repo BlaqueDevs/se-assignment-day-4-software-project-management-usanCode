@@ -28,6 +28,19 @@ Agile advantages:
 
 - regular customer feedback.
 
+Agile disadvantages:
+
+- less predictable timelines
+
+- less detailed documentation
+
+-require significant customer involvement.
+
+Waterfall advantages:
+
+-
+
+
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
