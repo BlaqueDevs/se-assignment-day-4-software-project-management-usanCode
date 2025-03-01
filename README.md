@@ -84,7 +84,8 @@ Answer:
 
         -define project boundaries 
 
-        -list deliverables and          objectives
+        -list deliverables and objectives
+
         -create WBS
 
 - Work Breakdown Structure: a hierarchical diagram that breaks down the entire project scope into smaller, more manageable components or tasks.
