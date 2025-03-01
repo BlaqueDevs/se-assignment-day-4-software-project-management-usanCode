@@ -108,6 +108,14 @@ These help teams to better track progress, identify potential bottlenecks, alloc
 
 Answer:
 
+The main issues the software has to address are :
+
+- the scope: project boundaries
+
+- time: a detailed timeline with milestones
+
+- budget : costs for resources, materials and equipment.
+
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
